@@ -38,3 +38,5 @@ Prius.displayMake(); //This car is a Prius.
 //Now this object Prius has its own properties of model, doors, and isElectric. 
 //The object also can call the method of displayMake, which would have access to the properties of Prius.
 
+//Reference:
+//https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/
