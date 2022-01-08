@@ -1,6 +1,6 @@
 var myVar = 10;
 
-https: function multiplicacion() {
+function multiplicacion() {
 	let result = myVar * 10;
 	console.log(result);
 }
