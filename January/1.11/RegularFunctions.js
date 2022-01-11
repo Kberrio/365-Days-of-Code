@@ -2,7 +2,6 @@
 function sum (a, b) {
     return a + b
 }
-
 // Named function with one parameter
 function isPositive(number) {
     return number >= 0
