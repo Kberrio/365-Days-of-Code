@@ -1,0 +1,29 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    height: 200vh;
+}
+
+.parent{
+    background-color: #627264;
+    padding: 5px;
+    
+}
+
+.child{
+    padding: 5px;
+    
+}
+
+.child-one{
+    background-color: #A1CDA8;
+    position: sticky;
+    top: 0px;
+}
+
+.child-two{
+    background-color: #B5DFCA;
+}
+
+.child-three{
+    background-color: #C5E7E2;
+}

@@ -11,4 +11,4 @@ Solution: to set a specific date export it to environment and then commit your c
 export GIT_AUTHOR_DATE="YYYY-MM-DDThh:mm:ss±hh:mm"
 export GIT_COMMITTER_DATE="YYYY-MM-DDThh:mm:ss±hh:mm"
 
-$ git commit --amend --date='2022-01-06 12:12:45 -m 'commiting from the future to the past'
+$ git commit --amend --date='2022-01-16 12:12:45 -m 'Updating README.me'
