@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Welcome to 365 days of Code!
 Hello everyone. My name is Kevin, and I will be taking on the challenge to code every day of 2022. Every day will be different, and I don't expect to code in one language. I will push myself and attempt to learn new languages and apply them during this challenge.
 
 Table of Contents
+=======
+#Welcome to 365 days of Code!
+Hello everyone. My name is Kevin, and I will be taking on the challenge to code every day of 2022. Every day will be different, and I don't expect to code in one language. I will push myself and attempt to learn new languages and apply them during this challenge.
+
+#Table of Contents
+>>>>>>> ed9503444a3d649b35252480b13ff7c6981dc0cc
 |Date|Programming Language|Topic Covered|
 |----------------|-------------------------------|-----------------------------|
 |[January 1st]()|`HTML` `CSS` |Mailto links |
