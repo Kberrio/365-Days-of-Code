@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4780312b9f3306f4d1e022e7c1cc170c26e94ee1
 Welcome to 365 days of Code!
 
 Hello everyone. My name is Kevin, and I will be taking on the challenge to code every day of 2022. Every day will be different, and I don't expect to code in one language. I will push myself and attempt to learn new languages and apply them during this challenge.
@@ -5,7 +9,16 @@ Hello everyone. My name is Kevin, and I will be taking on the challenge to code 
  
 
 Table of Contents
+<<<<<<< HEAD
 
+=======
+=======
+#Welcome to 365 days of Code!
+Hello everyone. My name is Kevin, and I will be taking on the challenge to code every day of 2022. Every day will be different, and I don't expect to code in one language. I will push myself and attempt to learn new languages and apply them during this challenge.
+
+#Table of Contents
+>>>>>>> ed9503444a3d649b35252480b13ff7c6981dc0cc
+>>>>>>> 4780312b9f3306f4d1e022e7c1cc170c26e94ee1
 |Date|Programming Language|Topic Covered|
 |----------------|-------------------------------|-----------------------------|
 |[January 1st](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.1)|`HTML`  `CSS` |Mailto links |
