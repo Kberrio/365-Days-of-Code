@@ -1,0 +1,15 @@
+.parent {
+    background: aquamarine;
+    height: 75vh;
+    width: 75vw;
+    padding: 1em;
+    position: relative;
+}
+
+.child {
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 26px;
+}
