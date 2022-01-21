@@ -23,3 +23,4 @@ Table of Contents
 |[January 17th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.17)|`HTML`|Inserting Discord iFrame|
 |[January 18th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.18)|`HTML`  `CSS`|CSS Display and Position Properties|
 |[January 19th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.19)|`HTML`  `CSS`|CSS 101|
+|[January 20th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
