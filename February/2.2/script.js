@@ -3,7 +3,7 @@ let myName; //block scope
 {
   let x = 2;
 }
-// x can NOT be used here
+// x can NOT be used here.
 
 
 
