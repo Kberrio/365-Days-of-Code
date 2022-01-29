@@ -12,4 +12,4 @@ var yourName; //function scope
 {
   var x = 2;
 }
-// x CAN be used here
+// x CAN be used here.
