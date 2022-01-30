@@ -35,4 +35,5 @@ Table of Contents
 |[January 29th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.29)|`HTML`  `JavaScript`|JavaScript Maps|
 |[January 30th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.30)|`HTML`  `JavaScript`|JavaScript Maps|
 |[January 31st](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.31)|`HTML`  `JavaScript`|JavaScript Maps|
+=======
 
