@@ -1,4 +1,4 @@
-//Adding New Properties to a JavaScript Object
+//Adding New Properties to a JavaScript Objects
 
 const myDog = {
 	name: 'Happy Coder',
