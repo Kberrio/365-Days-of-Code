@@ -24,5 +24,45 @@ Table of Contents
 |[January 18th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.18)|`HTML`  `CSS`|CSS Display and Position Properties|
 |[January 19th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.19)|`HTML`  `CSS`|CSS 101|
 |[January 20th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
-|[January 20th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
-|[January 20th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 21st](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 22nd](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 23rd](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 24th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 25th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 26th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 27th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 28th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 29th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 30th](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[January 31st](https://github.com/Kberrio/365-Days-of-Code/tree/main/1.20)|`HTML`  `JavaScript`|JavaScript Maps|
+|[February 1st](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.1) |`JavaScript`|JS Comments|
+|[February 2nd](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.2) |`JavaScript`|JS Variables|
+|[February 3rd](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.3) |`JavaScript`|JS Comments|
+|[February 4th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.4) |`JavaScript`|JS Comments|
+|[February 5th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.5) |`JavaScript`|JS Comments|
+|[February 6th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.6) |`JavaScript`|JS Comments|
+|[February 7th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.7) |`JavaScript`|JS Comments|
+|[February 8th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.8) |`JavaScript`|JS Comments|
+|[February 9th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.9) |`JavaScript`|JS Comments|
+|[February 10th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.10) |`JavaScript`|JS Comments|
+|[February 11th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.11) |`JavaScript`|JS Comments|
+|[February 12th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.12) |`JavaScript`|JS Comments|
+|[February 13th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.13) |`JavaScript`|JS Comments|
+|[February 14th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.14) |`JavaScript`|JS Comments|
+|[February 15th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.15) |`JavaScript`|JS Comments|
+|[February 16th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.16) |`JavaScript`|JS Comments|
+|[February 17th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.17) |`JavaScript`|JS Comments|
+|[February 18th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.18) |`JavaScript`|JS Comments|
+|[February 19th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.19) |`JavaScript`|JS Comments|
+|[February 20th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.20) |`JavaScript`|JS Comments|
+|[February 21st](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.21) |`JavaScript`|JS Comments|
+|[February 22nd](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.22) |`JavaScript`|JS Comments|
+|[February 23rd](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.23) |`JavaScript`|JS Comments|
+|[February 24th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.24) |`JavaScript`|JS Comments|
+|[February 25th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.25) |`JavaScript`|JS Comments|
+|[February 26th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.26) |`JavaScript`|JS Comments|
+|[February 27th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.27) |`JavaScript`|JS Comments|
+|[February 28th](https://github.com/Kberrio/365-Days-of-Code/tree/main/2.28) |`JavaScript`|JS Comments|
+
+
+
