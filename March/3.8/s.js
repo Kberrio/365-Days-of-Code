@@ -1,5 +1,4 @@
 // Nesting For Loops
-
 function multiplyAll(arr) {
 	let product = 1;
 	// Only change code below this line
