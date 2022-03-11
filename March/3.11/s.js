@@ -1,4 +1,4 @@
-// Accessing Nested Arrays (cont.)
+// Profile Lookups
 
 // Setup
 const testObj = {
