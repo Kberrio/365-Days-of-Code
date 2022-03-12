@@ -1,4 +1,4 @@
-// Accessing Nested Arrays (cont.)
+// Generate random fractions with JS
 
 // Setup
 const testObj = {
