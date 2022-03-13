@@ -1,4 +1,4 @@
-// Accessing Nested Arrays (cont.)
+//Generate random whole numbers with JS
 
 // Setup
 const testObj = {
