@@ -1,4 +1,4 @@
-// Accessing Nested Arrays (cont.)
+//use the parseInt function with a Radix
 
 // Setup
 const testObj = {
