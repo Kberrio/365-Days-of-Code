@@ -1,4 +1,4 @@
-// Accessing Nested Arrays (cont.)
+//Use the conditional (Ternary) operator
 
 // Setup
 const testObj = {
