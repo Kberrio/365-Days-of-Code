@@ -1,10 +1,12 @@
-// Setup
-const testObj = {
-	12: 'Namath',
-	16: 'Montana',
-	19: 'Unitas',
+//Accessing Object Properties with Variables
+const someObj = {
+	propName: 'John',
 };
 
-// Only change code below this line
-const playerNumber = 16; // Change this line
-const player = testObj.playerNumber; // Change this line
+function propPrefix(str) {
+	const s = 'prop';
+	return s + str;
+}
+
+const someProp = propPrefix('Name');
+console.log(someObj[someProp]);
